@@ -140,9 +140,6 @@ The Tableau Public dashboard presents the core comparisons through five visualiz
 5. Hourly activity heatmap, segmented by rider and day type.
 
 **Live dashboard:*  [ https://public.tableau.com/views/WeeklyRidesbyRiderType/Cyclistic2025Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link ]
-
->  https://public.tableau.com/views/WeeklyRidesbyRiderType/Cyclistic2025Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link 
-
 ## 10. Repository Structure
 
 ```text
