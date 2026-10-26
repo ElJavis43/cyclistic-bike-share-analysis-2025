@@ -1,0 +1,15 @@
+day_of_week,day_name,member_casual,total_viajes,duracion_promedio
+1,Sunday,casual,330742,22.14
+1,Sunday,member,382072,13.19
+2,Monday,casual,227666,18.98
+2,Monday,member,502505,11.55
+3,Tuesday,casual,225028,16.98
+3,Tuesday,member,562787,11.64
+4,Wednesday,casual,221011,15.76
+4,Wednesday,member,549887,11.43
+5,Thursday,casual,257396,16.82
+5,Thursday,member,575699,11.52
+6,Friday,casual,319162,18.84
+6,Friday,member,528675,11.92
+7,Saturday,casual,412954,21.41
+7,Saturday,member,449909,13.0
